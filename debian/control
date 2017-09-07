@@ -8,7 +8,7 @@ Build-Depends: cmake (>= 2.8.12),
                kaccounts-integration,
                libaccounts-glib-dev,
                libkaccounts-dev,
-               libkf5gapi-dev,
+               libkpimgapi-dev,
                pkg-kde-tools (>= 0.15.16),
                qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
